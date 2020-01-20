@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578426436916.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FA3BBDF4",
+    "lastKnownWriteTime" : 4316865030,
+    "last_content_update" : 1578426436916,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "719B57FC",
+        "caption" : "Smarket",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3AISLR&obj=Smarket&cache_key=719B57FC",
+        "displayedObservations" : 1250,
+        "environment" : "package:ISLR",
+        "expression" : "Smarket",
+        "object" : "Smarket",
+        "preview" : 0,
+        "totalObservations" : 1250,
+        "variables" : 9
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
